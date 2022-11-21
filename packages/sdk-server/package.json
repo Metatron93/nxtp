@@ -22,7 +22,7 @@
     "@connext/nxtp-utils": "workspace:*",
     "@sinclair/typebox": "^0.18.1",
     "ethers": "^5.4.6",
-    "fastify": "^3.22.1",
+    "fastify": "^3.29.4",
     "pino": "^6.13.0"
   },
   "devDependencies": {
